@@ -1,0 +1,11 @@
+{
+  "name": "video-stream-fullstack-app",
+  "version": "1.0.0",
+  "description": "a full stack app for video streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faisal Ansari",
+  "license": "ISC"
+}
